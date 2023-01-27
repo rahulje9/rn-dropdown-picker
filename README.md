@@ -22,8 +22,8 @@ A simple and customizable React Native Dropdown picker component.
   ```bash
   yarn add @rahulje9/rn-dropdown-picker
   ```
-![](gifs/ios.gif)
-
+  
+![](https://github.com/rahulje9/rn-dropdown-picker/blob/main/gifs/ios.gif)
 
 ## Example
 ```jsx
