@@ -1,5 +1,5 @@
 {
-  "name": "rn-dropdown-picker",
+  "name": "@rahulje9/rn-dropdown-picker",
   "version": "0.0.1",
   "description": "React Native dropdown picker using FlatList",
   "main": "src/index.js",
