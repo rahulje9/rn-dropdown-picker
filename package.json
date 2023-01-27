@@ -7,8 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Rahul",
+  "license": "MIT",
+  "repository": {
+    "name": "GitHub",
+    "type": "git",
+    "url": "git+https://github.com/rahulje9/rn-dropdown-picker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rahulje9/rn-dropdown-picker/issues"
+  },
+  "homepage": "https://github.com/rahulje9/rn-dropdown-picker.git",
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-native": ">=0.59.0"
