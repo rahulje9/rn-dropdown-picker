@@ -1,6 +1,6 @@
 {
   "name": "@rahulje9/rn-dropdown-picker",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React Native dropdown picker using FlatList",
   "main": "src/index.js",
   "scripts": {
@@ -21,7 +21,8 @@
     "react native",
     "android",
     "ios",
-    "javascript"
+    "javascript",
+    "rn-dropdown-picker"
   ],
   "author": "Rahul",
   "license": "MIT",
