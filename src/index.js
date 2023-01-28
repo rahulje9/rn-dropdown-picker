@@ -323,7 +323,7 @@ const styles = StyleSheet.create({
     position: "absolute",
     backgroundColor: colors.WHITE,
     zIndex: 20,
-    marginTop: 5,
+    marginTop: 2,
     borderColor: colors.LIGHT_BLACK_01,
   },
   textAlignCenter: {
